@@ -13,8 +13,6 @@ Objectives:
 
 To detect the potholes accurately and faster, we used YOLOv7.
 
-Genral YOLO architecture:
-![architecture](https://user-images.githubusercontent.com/93441034/219907432-8ae7fb52-0840-42ef-b783-21032aef5068.jpeg)
 ![comparision_graph](https://user-images.githubusercontent.com/93441034/219907417-7dd1675b-a2eb-41f0-921f-f775085e56c7.png)
 
 
