@@ -1,3 +1,5 @@
+# Telangana Got Tech Talent
+
 JNTU, Hyderabad - Blackbucks has launched a hackathon on Traffic Management, seamless transportation models, smart traffic management and road safety.
 Theme choosed is about detecting the potholes.
 Potholes have turned out to be a major cause of road accidents and a number of deaths have been reported recently after people lost control of their vehicles while navigating them. 
